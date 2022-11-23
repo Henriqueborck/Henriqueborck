@@ -1,4 +1,4 @@
-## Oiii eu sou Henrique, Entusiasta de programação e tecnologia!
+## Oiii eu sou Henrique, Entusiasta na área programação e tecnologia!
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriqueborck&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
